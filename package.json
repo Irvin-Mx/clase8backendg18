@@ -1,0 +1,24 @@
+{
+  "name": "clase8backendg18",
+  "version": "0.0.1",
+  "description": "Example of how to use npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "clear && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kodemia" : "echo \"Hola koders!!\" && touch kodemia.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irvin-Mx/clase8backendg18.git"
+  },
+  "author": "Irvin Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irvin-Mx/clase8backendg18/issues"
+  },
+  "homepage": "https://github.com/Irvin-Mx/clase8backendg18#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
